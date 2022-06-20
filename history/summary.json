@@ -43,19 +43,19 @@
     "url": "ppodds.website",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mc-server",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 176,
-    "timeDay": 207,
-    "timeWeek": 167,
-    "timeMonth": 168,
-    "timeYear": 176,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
+    "time": 175,
+    "timeDay": 173,
+    "timeWeek": 164,
+    "timeMonth": 167,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-06-20": 15
+      "2022-06-20": 29
     }
   }
 ]
