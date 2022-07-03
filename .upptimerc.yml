@@ -11,6 +11,8 @@ sites:
     check: "tcp-ping"
     url: ppodds.website
     port: 25565
+  - name: NCU+
+    url: https://ncuplus.ppodds.website
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
