@@ -4,15 +4,15 @@ repo: Uptime # The name of this repository
 
 sites:
   - name: Personal Website
-    url: https://ppodds.website
+    url: https://ppodds.cc
   - name: Blog
-    url: https://blog.ppodds.website
+    url: https://blog.ppodds.cc
   - name: MC Server
     check: "tcp-ping"
-    url: ppodds.website
+    url: ppodds.cc
     port: 25565
   - name: NCU+
-    url: https://ncuplus.ppodds.website
+    url: https://ncuplus.ppodds.cc
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
