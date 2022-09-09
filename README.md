@@ -21,7 +21,7 @@ This repository contains the open-source uptime monitor and status page for [Upp
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://blog.ppodds.website/Uptime/)
+[**Visit our status website →**](https://blog.ppodds.cc/Uptime/)
 
 ## 📄 License
 
