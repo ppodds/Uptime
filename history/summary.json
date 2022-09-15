@@ -27,9 +27,9 @@
     "url": "https://blog.ppodds.cc",
     "icon": "https://favicons.githubusercontent.com/blog.ppodds.cc",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.89%",
@@ -39,6 +39,7 @@
     "timeMonth": 161,
     "timeYear": 187,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2022-08-22": 195
     }
   },
@@ -70,11 +71,11 @@
     "icon": "https://favicons.githubusercontent.com/ncuplus.ppodds.cc",
     "slug": "ncu",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 631,
     "timeDay": 471,
     "timeWeek": 573,
