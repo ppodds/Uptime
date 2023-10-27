@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
-    "time": 745,
-    "timeDay": 184,
-    "timeWeek": 179,
-    "timeMonth": 153,
-    "timeYear": 716,
+    "uptimeYear": "99.32%",
+    "time": 743,
+    "timeDay": 95,
+    "timeWeek": 149,
+    "timeMonth": 148,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2023-06-13": 221,
       "2023-03-22": 83,
@@ -25,8 +25,7 @@
       "2022-12-01": 300,
       "2022-11-30": 302,
       "2022-11-10": 54,
-      "2022-10-28": 392,
-      "2022-10-27": 1440
+      "2022-10-28": 392
     }
   },
   {
@@ -41,7 +40,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 162,
+    "timeDay": 144,
     "timeWeek": 139,
     "timeMonth": 141,
     "timeYear": 140,
@@ -53,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "52.84%",
+    "uptime": "52.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-10-26": 759,
+      "2023-10-27": 69,
+      "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
@@ -313,8 +313,7 @@
       "2022-11-16": 1440,
       "2022-11-15": 757,
       "2022-11-10": 53,
-      "2022-10-28": 564,
-      "2022-10-27": 1440
+      "2022-10-28": 564
     }
   },
   {
@@ -323,16 +322,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "91.84%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "97.72%",
-    "time": 824,
-    "timeDay": 1821,
-    "timeWeek": 1356,
-    "timeMonth": 1053,
-    "timeYear": 880,
+    "time": 825,
+    "timeDay": 1894,
+    "timeWeek": 1396,
+    "timeMonth": 1062,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2023-10-26": 118,
       "2023-08-19": 42,
