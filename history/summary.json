@@ -62,7 +62,7 @@
     "timeMonth": 0,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-10-28": 68,
+      "2023-10-28": 94,
       "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
@@ -320,9 +320,9 @@
     "url": "https://ncuplus.ppodds.cc",
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "97.72%",
@@ -332,6 +332,7 @@
     "timeMonth": 1059,
     "timeYear": 882,
     "dailyMinutesDown": {
+      "2023-10-28": 0,
       "2023-10-26": 118,
       "2023-08-19": 42,
       "2023-08-18": 35,
