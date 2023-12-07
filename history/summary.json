@@ -29,19 +29,19 @@
     "url": "https://blog.ppodds.cc",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ppodds.cc.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 114,
-    "timeWeek": 120,
-    "timeMonth": 144,
+    "time": 144,
+    "timeDay": 127,
+    "timeWeek": 123,
+    "timeMonth": 145,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2023-12-07": 0
+      "2023-12-07": 8
     }
   },
   {
@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2023-12-07": 1042,
+      "2023-12-07": 1050,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
