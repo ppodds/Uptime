@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 506,
-    "timeDay": 227,
-    "timeWeek": 180,
+    "time": 503,
+    "timeDay": 213,
+    "timeWeek": 194,
     "timeMonth": 165,
-    "timeYear": 327,
+    "timeYear": 326,
     "dailyMinutesDown": {
-      "2023-06-13": 221,
-      "2023-03-22": 83
+      "2023-06-13": 221
     }
   },
   {
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 153,
-    "timeWeek": 165,
+    "timeDay": 200,
+    "timeWeek": 171,
     "timeMonth": 136,
-    "timeYear": 141,
+    "timeYear": 142,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "41.42%",
+    "uptime": "41.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "20.86%",
+    "uptimeYear": "20.58%",
     "time": 214,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 215,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-03-20": 69,
+      "2024-03-21": 71,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -344,8 +344,7 @@
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
-      "2023-06-05": 1109,
-      "2023-03-22": 82
+      "2023-06-05": 1109
     }
   },
   {
@@ -354,16 +353,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.07%",
-    "time": 913,
-    "timeDay": 990,
-    "timeWeek": 969,
-    "timeMonth": 983,
-    "timeYear": 1036,
+    "time": 914,
+    "timeDay": 1030,
+    "timeWeek": 997,
+    "timeMonth": 982,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2023-11-14": 21,
       "2023-10-28": 67,
