@@ -4,10 +4,10 @@
     "url": "https://site.ppodds.cc",
     "icon": "https://icons.duckduckgo.com/ip3/site.ppodds.cc.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
@@ -15,7 +15,9 @@
     "timeWeek": 195,
     "timeMonth": 191,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "Blog",
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 101,
+      "2024-10-22": 240,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
