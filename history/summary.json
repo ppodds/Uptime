@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 115,
-    "timeWeek": 129,
-    "timeMonth": 180,
+    "timeDay": 171,
+    "timeWeek": 128,
+    "timeMonth": 182,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2024-10-22": 37
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 89,
-    "timeWeek": 120,
-    "timeMonth": 156,
+    "timeDay": 122,
+    "timeWeek": 123,
+    "timeMonth": 154,
     "timeYear": 141,
     "dailyMinutesDown": {}
   },
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "31.05%",
+    "uptime": "31.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-31": 102,
+      "2024-11-01": 107,
+      "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
@@ -417,8 +418,7 @@
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
-      "2023-11-03": 1440,
-      "2023-11-02": 1440
+      "2023-11-03": 1440
     }
   },
   {
@@ -427,15 +427,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.56%",
-    "time": 1046,
-    "timeDay": 1011,
-    "timeWeek": 1013,
-    "timeMonth": 1032,
+    "time": 1047,
+    "timeDay": 1062,
+    "timeWeek": 1024,
+    "timeMonth": 1040,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2024-10-08": 22,
