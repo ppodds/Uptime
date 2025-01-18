@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/site.ppodds.cc.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 129,
-    "timeWeek": 180,
-    "timeMonth": 169,
-    "timeYear": 197,
+    "timeDay": 202,
+    "timeWeek": 174,
+    "timeMonth": 171,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2024-10-22": 37
     }
@@ -32,9 +32,9 @@
     "uptimeYear": "100.00%",
     "time": 144,
     "timeDay": 127,
-    "timeWeek": 135,
+    "timeWeek": 137,
     "timeMonth": 131,
-    "timeYear": 142,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "28.57%",
+    "uptime": "28.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-17": 96,
+      "2025-01-18": 94,
+      "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
@@ -417,8 +418,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -427,16 +427,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 1042,
-    "timeDay": 1290,
-    "timeWeek": 1162,
-    "timeMonth": 1160,
-    "timeYear": 1034,
+    "timeDay": 1101,
+    "timeWeek": 1147,
+    "timeMonth": 1162,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2024-10-08": 22,
       "2024-07-21": 519,
