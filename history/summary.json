@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 319,
-    "timeWeek": 226,
-    "timeMonth": 210,
+    "timeDay": 220,
+    "timeWeek": 234,
+    "timeMonth": 207,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2024-10-22": 37
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 93,
-    "timeWeek": 170,
-    "timeMonth": 167,
+    "timeDay": 275,
+    "timeWeek": 164,
+    "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {}
   },
@@ -43,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "28.16%",
+    "uptime": "28.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -54,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-07-18": 802,
+      "2025-07-19": 122,
+      "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -374,8 +375,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -384,23 +384,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.04%",
+    "uptimeDay": "47.20%",
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "99.58%",
     "time": 1119,
-    "timeDay": 1302,
-    "timeWeek": 1161,
-    "timeMonth": 1163,
-    "timeYear": 1130,
+    "timeDay": 0,
+    "timeWeek": 1187,
+    "timeMonth": 1169,
+    "timeYear": 1131,
     "dailyMinutesDown": {
-      "2025-07-18": 0,
+      "2025-07-19": 122,
+      "2025-07-18": 638,
       "2025-03-03": 20,
       "2024-10-08": 22,
       "2024-07-21": 519,
-      "2024-07-20": 289,
-      "2024-07-19": 588
+      "2024-07-20": 289
     }
   }
 ]
