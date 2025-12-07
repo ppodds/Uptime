@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 211,
-    "timeDay": 186,
-    "timeWeek": 214,
-    "timeMonth": 212,
+    "timeDay": 102,
+    "timeWeek": 191,
+    "timeMonth": 208,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2025-09-24": 15,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 158,
-    "timeWeek": 236,
-    "timeMonth": 181,
+    "timeDay": 188,
+    "timeWeek": 220,
+    "timeMonth": 180,
     "timeYear": 172,
     "dailyMinutesDown": {}
   },
@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "25.12%",
+    "uptime": "25.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-12-06": 113,
+      "2025-12-07": 128,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -378,8 +379,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -389,14 +389,14 @@
     "slug": "ncu",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "97.45%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.68%",
     "time": 1109,
-    "timeDay": 954,
-    "timeWeek": 974,
-    "timeMonth": 1057,
+    "timeDay": 789,
+    "timeWeek": 965,
+    "timeMonth": 1056,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2025-12-05": 37,
