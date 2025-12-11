@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 212,
-    "timeDay": 170,
-    "timeWeek": 206,
+    "timeDay": 176,
+    "timeWeek": 203,
     "timeMonth": 214,
     "timeYear": 214,
     "dailyMinutesDown": {
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 218,
+    "timeDay": 121,
     "timeWeek": 193,
-    "timeMonth": 191,
+    "timeMonth": 189,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -47,7 +47,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "25.04%",
+    "uptime": "25.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -58,7 +58,8 @@
     "timeMonth": 0,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2025-12-10": 121,
+      "2025-12-11": 123,
+      "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
@@ -378,8 +379,7 @@
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
-      "2024-12-12": 1440,
-      "2024-12-11": 1440
+      "2024-12-12": 1440
     }
   },
   {
@@ -388,15 +388,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.68%",
-    "time": 1109,
-    "timeDay": 1079,
-    "timeWeek": 1005,
-    "timeMonth": 1058,
+    "time": 1110,
+    "timeDay": 1075,
+    "timeWeek": 1003,
+    "timeMonth": 1056,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2025-12-05": 37,
