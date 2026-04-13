@@ -32,18 +32,20 @@
     "url": "https://blog.ppodds.cc",
     "icon": "https://icons.duckduckgo.com/ip3/blog.ppodds.cc.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 101,
-    "timeWeek": 185,
+    "timeDay": 136,
+    "timeWeek": 183,
     "timeMonth": 179,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-13": 1
+    }
   },
   {
     "name": "MC Server",
@@ -51,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "22.87%",
+    "uptime": "22.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +64,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-13": 209,
+      "2026-04-13": 1195,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
