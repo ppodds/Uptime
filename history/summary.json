@@ -64,7 +64,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-07": 3,
+      "2026-07-07": 23,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
@@ -436,15 +436,15 @@
     "url": "https://ncuplus.ppodds.cc",
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.68%",
     "time": 1108,
-    "timeDay": 1117,
-    "timeWeek": 978,
+    "timeDay": 1072,
+    "timeWeek": 985,
     "timeMonth": 1028,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -457,7 +457,7 @@
       "2025-11-26": 120,
       "2025-12-05": 37,
       "2026-02-05": 22,
-      "2026-07-07": 0
+      "2026-07-07": 21
     }
   }
 ]
