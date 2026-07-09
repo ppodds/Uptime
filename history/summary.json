@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 215,
-    "timeDay": 224,
-    "timeWeek": 178,
-    "timeMonth": 175,
+    "timeDay": 207,
+    "timeWeek": 184,
+    "timeMonth": 174,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2025-08-25": 16,
@@ -39,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 177,
-    "timeDay": 201,
-    "timeWeek": 147,
-    "timeMonth": 151,
+    "timeDay": 67,
+    "timeWeek": 127,
+    "timeMonth": 145,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2026-04-13": 46
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "21.56%",
+    "uptime": "21.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-08": 982,
+      "2026-07-09": 55,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -427,8 +428,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2025-07-10": 1440,
-      "2025-07-09": 1440
+      "2025-07-10": 1440
     }
   },
   {
@@ -437,16 +437,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.21%",
+    "uptimeDay": "64.34%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "99.58%",
     "time": 1107,
-    "timeDay": 819,
-    "timeWeek": 982,
-    "timeMonth": 1019,
-    "timeYear": 1047,
+    "timeDay": 0,
+    "timeWeek": 1012,
+    "timeMonth": 1016,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2025-07-19": 353,
       "2025-07-18": 638,
@@ -458,7 +458,8 @@
       "2025-12-05": 37,
       "2026-02-05": 22,
       "2026-07-07": 21,
-      "2026-07-08": 0
+      "2026-07-09": 56,
+      "2026-07-08": 458
     }
   }
 ]
