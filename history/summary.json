@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 214,
-    "timeDay": 224,
-    "timeWeek": 186,
+    "timeDay": 116,
+    "timeWeek": 178,
     "timeMonth": 174,
     "timeYear": 213,
     "dailyMinutesDown": {
@@ -39,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 176,
-    "timeDay": 79,
-    "timeWeek": 114,
-    "timeMonth": 144,
+    "timeDay": 96,
+    "timeWeek": 116,
+    "timeMonth": 141,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2026-04-13": 46
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "21.54%",
+    "uptime": "21.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 57,
+      "2026-07-11": 45,
+      "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -427,8 +428,7 @@
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
-      "2025-07-12": 1440,
-      "2025-07-11": 1440
+      "2025-07-12": 1440
     }
   },
   {
@@ -437,15 +437,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "down",
-    "uptime": "99.14%",
+    "uptime": "99.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.41%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "99.31%",
+    "uptimeWeek": "66.24%",
+    "uptimeMonth": "92.23%",
+    "uptimeYear": "99.03%",
     "time": 1108,
     "timeDay": 0,
-    "timeWeek": 994,
-    "timeMonth": 1013,
+    "timeWeek": 968,
+    "timeMonth": 1022,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2025-07-19": 353,
@@ -458,7 +458,8 @@
       "2025-12-05": 37,
       "2026-02-05": 22,
       "2026-07-07": 21,
-      "2026-07-10": 57,
+      "2026-07-11": 45,
+      "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 458
     }
