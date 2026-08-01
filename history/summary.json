@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 214,
-    "timeDay": 88,
-    "timeWeek": 225,
+    "timeDay": 124,
+    "timeWeek": 208,
     "timeMonth": 186,
     "timeYear": 212,
     "dailyMinutesDown": {
@@ -39,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 177,
-    "timeDay": 42,
-    "timeWeek": 146,
-    "timeMonth": 141,
-    "timeYear": 169,
+    "timeDay": 66,
+    "timeWeek": 131,
+    "timeMonth": 139,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2026-04-13": 46
     }
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "21.25%",
+    "uptime": "21.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-31": 47,
+      "2026-08-01": 47,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -427,8 +428,7 @@
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
-      "2025-08-02": 1440,
-      "2025-08-01": 1440
+      "2025-08-02": 1440
     }
   },
   {
@@ -437,15 +437,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "down",
-    "uptime": "97.74%",
+    "uptime": "97.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "26.48%",
-    "uptimeYear": "93.82%",
+    "uptimeMonth": "23.19%",
+    "uptimeYear": "93.54%",
     "time": 1071,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 966,
+    "timeMonth": 982,
     "timeYear": 1031,
     "dailyMinutesDown": {
       "2025-09-19": 52,
@@ -454,7 +454,8 @@
       "2025-12-05": 37,
       "2026-02-05": 22,
       "2026-07-07": 21,
-      "2026-07-31": 47,
+      "2026-08-01": 47,
+      "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
