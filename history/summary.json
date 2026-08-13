@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 214,
-    "timeDay": 302,
-    "timeWeek": 219,
-    "timeMonth": 202,
+    "timeDay": 174,
+    "timeWeek": 207,
+    "timeMonth": 205,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2025-08-25": 16,
@@ -39,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 168,
-    "timeDay": 107,
-    "timeWeek": 154,
+    "timeDay": 148,
+    "timeWeek": 138,
     "timeMonth": 157,
-    "timeYear": 168,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2026-04-13": 46
     }
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mc-server",
     "status": "down",
-    "uptime": "21.08%",
+    "uptime": "21.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-12": 140,
+      "2026-08-13": 143,
+      "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
@@ -427,8 +428,7 @@
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
-      "2025-08-14": 1440,
-      "2025-08-13": 1440
+      "2025-08-14": 1440
     }
   },
   {
@@ -437,16 +437,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ncuplus.ppodds.cc.ico",
     "slug": "ncu",
     "status": "down",
-    "uptime": "96.96%",
+    "uptime": "96.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "90.51%",
-    "time": 1068,
+    "uptimeYear": "90.24%",
+    "time": 1067,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1032,
+    "timeYear": 1019,
     "dailyMinutesDown": {
       "2025-09-19": 52,
       "2025-09-22": 61,
@@ -454,7 +454,8 @@
       "2025-12-05": 37,
       "2026-02-05": 22,
       "2026-07-07": 21,
-      "2026-08-12": 140,
+      "2026-08-13": 143,
+      "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 1440,
